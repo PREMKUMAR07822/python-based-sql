@@ -26,4 +26,6 @@ This Python application provides a simple interface for managing user data in a 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/sql-server-management.git
+   https://github.com/PREMKUMAR07822/python-based-sql
+   ```
+
